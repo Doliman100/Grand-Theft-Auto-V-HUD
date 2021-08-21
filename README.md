@@ -61,8 +61,6 @@ Click "Update" to save
 ## FAQ
 
 ### Installation
-![Installation](images/installation.png)
-
 Extract "gta5hud" folder to "<Garry's Mod>/garrysmod/addons/"
 
 ### How to disable default darkrp scoreboard
